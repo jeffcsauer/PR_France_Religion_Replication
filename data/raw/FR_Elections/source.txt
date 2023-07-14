@@ -1,0 +1,2 @@
+Wave 1: https://www.data.gouv.fr/en/datasets/election-presidentielle-des-23-avril-et-7-mai-2017-resultats-definitifs-du-1er-tour-par-communes/
+Wave 2: https://www.data.gouv.fr/en/datasets/election-presidentielle-des-23-avril-et-7-mai-2017-resultats-definitifs-du-2nd-tour/

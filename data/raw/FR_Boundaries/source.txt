@@ -1,0 +1,9 @@
+DEPARTMENTS
+https://gadm.org/download_country_v3.html
+R (sf) level 2 for departments
+
+COMMUNES
+https://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/#resource-fb5ada94-c76c-4e61-9397-1f23b03ec926
+"Export simple de janvier 2017 (224Mo)"
+stable url: https://www.data.gouv.fr/fr/datasets/r/fb5ada94-c76c-4e61-9397-1f23b03ec926
+
